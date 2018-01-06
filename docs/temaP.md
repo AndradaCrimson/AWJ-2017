@@ -4,7 +4,7 @@
     </h1>
 </p>    
 
-Create an aplication to be used both by teachers and students for attendance checkeing.
+Create an aplication to be used both by teachers and students for attendance checking.
     
 # Requirements:
     
